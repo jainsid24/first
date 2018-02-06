@@ -25,7 +25,7 @@ SECRET_KEY = 'trd+@=@7@8_rais^p*rtnoa^c-jdonhm8pfk(bi_@2xhg&mcv#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jainsid24.pythonanywhere.com']
 
 
 # Application definition
