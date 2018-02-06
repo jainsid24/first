@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #ff9400;
+    background-color: #000000;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -8,10 +8,16 @@
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
+    text-align: center;
 }
 
 .content {
-    margin-left: 40px;
+    margin-top: 50px;
+    margin-right: 70px;
+    
+    display: block;
+  
+    
 }
 
 h1, h2, h3, h4 {
@@ -31,6 +37,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
+    margin-top: 20px;
     color: #ffffff;
     float: right;
     font-size: 26pt;
@@ -38,7 +45,7 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 70px;
+    margin-bottom: 40px;
 }
 
 .post h1 a, .post h1 a:visited {
